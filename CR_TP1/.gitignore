@@ -1,0 +1,58 @@
+# Fichiers auxiliaires LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.nav
+*.snm
+*.vrb
+
+# Fichiers de sauvegarde
+*.bak
+*~
+*.swp
+
+# Fichiers de build
+*.dvi
+*.ps
+
+# Dossiers de build
+_minted-*/
+*.pyg
+
+# Fichiers d'index
+*.idx
+*.ilg
+*.ind
+
+# Fichiers glossaires
+*.glo
+*.gls
+*.glg
+*.acn
+*.acr
+*.alg
+
+# Fichiers nomenclature
+*.nlo
+*.nls
+
+# Fichiers de références
+*.brf
+
+# Fichiers latexmk
+*.fdb_latexmk
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
