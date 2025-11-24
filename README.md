@@ -93,7 +93,7 @@ latexmk -pdf template_ensa_agadir.tex
 
 ## Auteur
 
-- **Youssefi**
+- **BOUANANI Abderrahman**
 
 ## Contributions
 
